@@ -128,6 +128,7 @@ span {
   color: white;  
   position: relative;  
   width: 50%;
+  min-height: 33px;
 }
 
 .anomaly-image,
